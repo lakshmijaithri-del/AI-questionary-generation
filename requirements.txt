@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+python-multipart
+httpx
+pydantic
+PyPDF2
+PyCryptodome
+python-docx
+pdf2image
+pytesseract
+fuzzywuzzy
+python-levenshtein
+langchain
+python-dotenv
+torch
+transformers
+accelerate
